@@ -1,0 +1,21 @@
+{
+  "name": "night-one-dark",
+  "displayName": "Night One Dark",
+  "description": "Dark theme based on Atom One Dark theme but more darker and blue ish :)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night One Dark-color-theme.json"
+      }
+    ]
+  }
+}
