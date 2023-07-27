@@ -2,10 +2,17 @@
   "name": "night-one-dark",
   "displayName": "Night One Dark",
   "description": "Dark theme based on Atom One Dark theme but more darker and blue ish :)",
+  "publisher": "0xardi-N",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "author": {
+    "name": "Ardi Nugraha",
+    "email": "ardi0x01@gmail.com",
+    "url": "https://www.linkedin.com/in/ardi-nugraha-5a6bb2175/"
+  },
+  "icon": "icons/night-one-dark.png",
   "categories": [
     "Themes"
   ],
@@ -17,5 +24,9 @@
         "path": "./themes/Night One Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/0xArdi-N/Night-One-Dark-theme.git",
+    "type": "git"
   }
 }
