@@ -1,32 +1,43 @@
 {
-  "name": "night-one-dark",
-  "displayName": "Night One Dark",
-  "description": "Dark theme based on Atom One Dark theme but more darker and blue ish :)",
-  "publisher": "0xardi-N",
-  "version": "0.0.4",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "author": {
-    "name": "Ardi Nugraha",
-    "email": "ardi0x01@gmail.com",
-    "url": "https://www.linkedin.com/in/ardi-nugraha-5a6bb2175/"
-  },
-  "icon": "icons/night-one-dark.png",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Night One Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Night One Dark-color-theme.json"
-      }
-    ]
-  },
-  "repository": {
-    "url": "https://github.com/0xArdi-N/Night-One-Dark-theme.git",
-    "type": "git"
-  }
+	"name": "night-one-dark",
+	"displayName": "Night One Dark",
+	"description": "Dark theme based on Atom One Dark theme but more darker and blue ish :)",
+	"publisher": "0xardi-N",
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"author": {
+		"name": "Ardi Nugraha",
+		"email": "ardi0x01@gmail.com",
+		"url": "https://www.linkedin.com/in/ardi-nugraha-5a6bb2175/"
+	},
+	"icon": "icons/night-one-dark.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night One Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night One Dark-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"url": "https://github.com/0xArdi-N/Night-One-Dark-theme.git",
+		"type": "git"
+	},
+	"__metadata": {
+		"id": "0bbddfc3-9eac-475e-af0d-d68937632090",
+		"publisherId": "117189a5-a6e0-4155-a173-999f9f938b81",
+		"publisherDisplayName": "Ardi Nugraha",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1690439959170,
+		"preRelease": false
+	}
 }

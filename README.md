@@ -2,11 +2,11 @@
 Example Colors:
 
 **C++**
-![cpp](images/cpp.png)
+![cpp](https://github.com/0xArdi-N/Night-One-Dark-theme/raw/HEAD/images/cpp.png)
 **TypeScript**
-![ts](images/ts.png)
+![ts](https://github.com/0xArdi-N/Night-One-Dark-theme/raw/HEAD/images/ts.png)
 **HTML**
-![html](images/html.png)
+![html](https://github.com/0xArdi-N/Night-One-Dark-theme/raw/HEAD/images/html.png)
 
-**Enjoy!**
+**Enjoy!**  
 
