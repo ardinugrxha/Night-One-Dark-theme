@@ -3,7 +3,7 @@
 	"displayName": "Night One Dark",
 	"description": "VSCode Theme based on One Dark Material theme but with blue taste and reduce eye strain",
 	"publisher": "0xardi-N",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
