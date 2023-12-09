@@ -50,7 +50,7 @@
     "editorIndentGuide.background": "#293139",
     "editorIndentGuide.activeBackground": "#505050",
     "editorRuler.foreground": "#282828",
-    "editorCodeLens.foreground": "#00a3ef",
+    "editorCodeLens.foreground": "#64b4fa",
     "editorError.foreground": "#f05050",
     "editorError.border": null,
     "editorWarning.foreground": "#ffc828",
