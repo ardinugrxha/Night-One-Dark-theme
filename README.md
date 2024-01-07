@@ -35,4 +35,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Enjoy coding with Night One Dark theme! If you like it, consider giving it a star on [GitHub](https://github.com/ardi-nugraha/Night-One-Dark-theme).
 
+Thanks for the icon @fattahjuliand
+
 **Happy Coding!** 🌙✨
