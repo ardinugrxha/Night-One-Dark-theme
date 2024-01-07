@@ -1,7 +1,5 @@
 # Night One Dark - Visual Studio Code Theme
 
-![Night One Dark Preview](icons/night-one-dark.png)
-
 Night One Dark is a stylish Visual Studio Code theme inspired by the popular Atom One Dark color scheme. It brings a modern and elegant look to your code editor, making your coding experience more enjoyable.
 
 ## Features
